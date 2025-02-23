@@ -1,6 +1,6 @@
 {
 	"Name": "The Jukebox",
-	"Version": 1740288173,
+	"Version": 1740290460,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -287,6 +287,7 @@
 				"102",
 				"275",
 				"109",
+				"112",
 				"121",
 				"124",
 				"126",
@@ -496,8 +497,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"33",
-				"34",
-				"49"
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -1354,8 +1354,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"33",
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0
