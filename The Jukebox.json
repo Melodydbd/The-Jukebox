@@ -1,6 +1,6 @@
 {
 	"Name": "The Jukebox",
-	"Version": 1740445902,
+	"Version": 1740447782,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -140,6 +140,7 @@
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
 				"132",
+				"150",
 				"151",
 				"163",
 				"174",
