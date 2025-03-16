@@ -1,6 +1,6 @@
 {
 	"Name": "The Jukebox",
-	"Version": 1740966476,
+	"Version": 1742167795,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -432,6 +432,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
+				"4",
 				"8",
 				"16",
 				"33"
@@ -498,6 +500,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
+				"32",
 				"33",
 				"34"
 			],
@@ -566,7 +570,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"42",
 				"6",
+				"7",
 				"9"
 			],
 			"BalanceTiers": [
@@ -642,9 +648,10 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
+				"8",
 				"16",
-				"34",
-				"49"
+				"33",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -788,7 +795,10 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"8",
+				"9",
+				"22",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -843,6 +853,8 @@
 				6
 			],
 			"KillerOfferings": [
+				0,
+				1,
 				5
 			]
 		},
@@ -925,15 +937,15 @@
 			"Map": [
 				"0",
 				"8",
-				"28",
 				"33"
 			],
 			"BalanceTiers": [
 				0,
-				1
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -952,10 +964,11 @@
 			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				158
+			],
 			"ItemWhitelist": [
 				0,
-				14,
 				5
 			],
 			"AddonWhitelist": {
@@ -984,11 +997,13 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
+				0,
+				1,
 				5
 			]
 		},
@@ -997,6 +1012,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
+				"6",
 				"8",
 				"9",
 				"33"
@@ -1136,6 +1153,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
+				"33",
 				"34"
 			],
 			"BalanceTiers": [
@@ -1206,6 +1225,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"6",
 				"8",
 				"19"
 			],
@@ -1275,7 +1295,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"0",
+				"8",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -1349,6 +1371,8 @@
 				6
 			],
 			"KillerOfferings": [
+				0,
+				1,
 				5
 			]
 		},
@@ -1357,7 +1381,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"8",
+				"28",
 				"33"
 			],
 			"BalanceTiers": [
@@ -1424,7 +1450,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"5"
+				"5",
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1561,6 +1588,7 @@
 			"Map": [
 				"0",
 				"8",
+				"13",
 				"22"
 			],
 			"BalanceTiers": [
@@ -1629,7 +1657,12 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"8"
+				"6",
+				"7",
+				"8",
+				"13",
+				"33",
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -1697,7 +1730,9 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"5"
+				"5",
+				"8",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1832,7 +1867,9 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"6"
+				"6",
+				"7",
+				"10"
 			],
 			"BalanceTiers": [
 				0,
@@ -1979,6 +2016,7 @@
 			"Map": [
 				"42",
 				"8",
+				"11",
 				"28"
 			],
 			"BalanceTiers": [
@@ -2051,6 +2089,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
+				"11",
 				"16",
 				"49"
 			],
@@ -2059,7 +2098,7 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				7
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2258,6 +2297,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
+				"20",
+				"33",
 				"34"
 			],
 			"BalanceTiers": [
@@ -2326,7 +2368,10 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"32",
+				"33",
+				"34",
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -2395,6 +2440,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
+				"3",
 				"8",
 				"33"
 			],
@@ -2535,7 +2581,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"5",
+				"8",
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -2598,6 +2646,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"3",
 				"8",
 				"33"
 			],
@@ -2671,7 +2720,9 @@
 			"IsDisabled": false,
 			"Map": [
 				"43",
-				"9"
+				"9",
+				"41",
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -2816,7 +2867,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"42",
+				"8",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2877,6 +2930,8 @@
 				6
 			],
 			"KillerOfferings": [
+				0,
+				1,
 				5
 			]
 		},
@@ -2885,7 +2940,9 @@
 			"KillerNotes": "The magical chests may not be opened after the first gen pops. The non magical items may not be used. Vecna's Eye and Vecna's Hand may not be used.",
 			"IsDisabled": false,
 			"Map": [
+				"6",
 				"8",
+				"19",
 				"33",
 				"49"
 			],
