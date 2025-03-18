@@ -1,6 +1,6 @@
 {
 	"Name": "The Jukebox",
-	"Version": 1742258458,
+	"Version": 1742258562,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -204,6 +204,7 @@
 				"77",
 				"88",
 				"96",
+				"92",
 				"102",
 				"275",
 				"109",
