@@ -1,6 +1,6 @@
 {
 	"Name": "The Jukebox",
-	"Version": 1742670374,
+	"Version": 1743131457,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -29,6 +29,7 @@
 				"46",
 				"261",
 				"49",
+				"262",
 				"55",
 				"274",
 				"252",
@@ -1215,6 +1216,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
@@ -2360,6 +2363,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
@@ -2431,6 +2436,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
@@ -2637,6 +2644,7 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
@@ -3152,6 +3160,54 @@
 				0,
 				1
 			]
+		},
+		{
+			"Name": "The Ghoul",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
